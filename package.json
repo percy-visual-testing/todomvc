@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "engines": {
+    "node": ">=10.16.3"
+  },
+  "dependencies": {
+    "todomvc-common": "^1.0.1",
+    "todomvc-app-css": "^2.0.1"
+  },
+  "devDependencies": {}
+}
